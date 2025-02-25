@@ -109,4 +109,4 @@ Prompt engineering is essential for creating better AI-powered services, minimiz
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 "Write an email to your boss about the project" - This prompt is too vague and doesn't provide any specific details or goals. It's difficult for the AI to understand what kind of email you want to write, and the resulting output may not be what you were hoping for.
 "Write an email to your boss about the upcoming AI project"
-the improved prompt provides enough details to get to know exactly what is being sought after.
+the improved prompt provides enough details to get to know exactly what is being sought after. 
